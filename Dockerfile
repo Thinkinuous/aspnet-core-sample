@@ -1,4 +1,4 @@
-FROM microsoft/aspnet:latest
+FROM microsoft/aspnet:1.0.0-rc1-update1-coreclr
 
 MAINTAINER Wahid Shalaly <waheedsayed@gmail.com>
 
