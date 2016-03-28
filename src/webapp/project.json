@@ -6,7 +6,7 @@
   },
 
   "dependencies": {
-    "Microsoft.AspNet.Diagnostics":  "1.0.0-rc1-final",
+    "Microsoft.AspNet.Diagnostics": "1.0.0-rc1-final",
     "Microsoft.AspNet.IISPlatformHandler": "1.0.0-rc1-final",
     "Microsoft.AspNet.Mvc": "6.0.0-rc1-final",
     "Microsoft.AspNet.Mvc.TagHelpers": "6.0.0-rc1-final",
@@ -28,7 +28,7 @@
   },
 
   "frameworks": {
-    "dnxcore50": { }
+    "dnx451": { }
   },
 
   "exclude": [
